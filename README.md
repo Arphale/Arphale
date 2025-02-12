@@ -36,14 +36,6 @@
 
 ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Arphale&theme=react-dark&hide_border=true)
 
-## 💡 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Building a Scalable Microservices Architecture](https://yourblog.com/post1)
-- [10 Tips for Better React Performance](https://yourblog.com/post2)
-- [Getting Started with TypeScript](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
-
 ## 🎯 Currently
 
 - 🔭 Internship at: Bleemeo
