@@ -1,8 +1,7 @@
 # Hi there, I'm [Your Name]! 👋
 
 [![Website Badge](https://img.shields.io/badge/Portfolio-Your_Portfolio_Website-FF4088?style=flat-square&logo=google-chrome)](https://your-portfolio-site.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Your_Name-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-@YourHandle-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/yourhandle)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Your_Name-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/raphaelrobin03/)
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
 
 **Software Ingeneering Student** specialized in building web applications.
@@ -15,12 +14,11 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ### **Frontend**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=angular&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
 
 ### **Backend**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
 
 ## 🌟 Featured Projects
 
@@ -32,11 +30,11 @@
 
 ## 📈 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arphale&show_icons=true&theme=radical)](https://github.com/Arphale)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arphale&layout=compact&theme=radical)](https://github.com/Arphale)
 
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true)
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Arphale&theme=react-dark&hide_border=true)
 
 ## 💡 Latest Blog Posts
 
@@ -48,13 +46,10 @@
 
 ## 🎯 Currently
 
-- 🔭 Working on: [Current Project Name]
-- 🌱 Learning: GoLang & Kubernetes
-- 👯 Looking to collaborate on: Open source projects
-- 💬 Ask me about: Web Development, API Design
-- ⚡ Fun fact: I once coded for 36 hours straight!
+- 🔭 Internship at: Bleemeo
+- 🌱 Learning: Backend Developpement using Python
 
 ## 📫 Let's Connect
 
-[![Email Badge](https://img.shields.io/badge/Email-Your_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@domain.com)
-[![Discord Badge](https://img.shields.io/badge/Discord-Your_Username-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/yourid)
+[![Email Badge](https://img.shields.io/badge/Email-Your_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphael.robin31000@gmail.com)
+[![Discord Badge](https://img.shields.io/badge/Discord-Your_Username-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/296262907132379136)
