@@ -51,5 +51,5 @@
 
 ## 📫 Let's Connect
 
-[![Email Badge](https://img.shields.io/badge/Email-Your_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphael.robin31000@gmail.com)
+[![Email Badge](https://img.shields.io/badge/Email-raphael.robin31000@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphael.robin31000@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/Discord-Arepha-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/296262907132379136)
