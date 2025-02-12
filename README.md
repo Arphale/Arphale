@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-@YourHandle-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/yourhandle)
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
 
-**Full-Stack Developer** specializing in building modern web applications. Passionate about open-source and creating developer tools.
+**Software Ingeneering Student** specialized in building web applications.
 
 ## 🛠️ Tech Stack
 
