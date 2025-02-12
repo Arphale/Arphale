@@ -2,7 +2,7 @@
 
 [![Website Badge](https://img.shields.io/badge/Portfolio-Your_Portfolio_Website-FF4088?style=flat-square&logo=google-chrome)](https://your-portfolio-site.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Your_Name-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/raphaelrobin03/)
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.Arphale)
 
 **Software Ingeneering Student** specialized in building web applications.
 
